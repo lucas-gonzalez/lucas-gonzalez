@@ -2,7 +2,7 @@
 
 I am a passionate software engineer specialized in microservices environments. I enjoy designing and building backend systems and APIs for other enginneers to build on.
 
-### What pikes my interest?
+### What piques my interest?
 
 I am currently focusing on learning technologies I find interesting, whether they are part of my day to day toolkit or not. My aims are currently on improving my knowledge on the following technologies, both from a developer's and an operator's perspective:
 
