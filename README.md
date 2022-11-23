@@ -2,10 +2,23 @@
 
 I am a passionate software engineer specialized in microservices environments. I enjoy designing and building backend systems and APIs for other enginneers to build on.
 
-I am currently involved in the re-design of Inditex's e-commerce as a microservices solution as a member of the e-commerce architecture team. This position has given me the opportunity (_and the challenge, at the same time!_) of balancing my time between the three aspects of software engineering I enjoy the most: learning, mentoring and tackling complex problems.
+### Among my skills 🛠️
 
-Learning and mentoring are an intrinsic part of software development to me. We _should_ always be engaged in both activities to the best of our abilities as part of our daily duties (_even if it's not among your strengths, that's ok!_). That belief makes me a strong advocate of healthy collaborative environments where every opinion can be voiced and people should always be treated with kindness.
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-### Disclaimer
+### Trivia
 
-As my greeting my have already hinted, I enjoy science fiction and high fantasy. Whatever you can think of on those topics, I can probably rant about. _Be warned, there be dragons (and so many other things)!_
+Sci-fi and high fantasy geek. Be warned, here be dragons!
